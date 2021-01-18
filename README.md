@@ -16,7 +16,7 @@ It's so simple. You need a **Python 3.x**. on your computer. Are you haven't **P
 
 You need to install PyQT5 module.
 ```
-pip install pyqt5
+pip install PyQT5
 ```
 
 ## Screenshots
