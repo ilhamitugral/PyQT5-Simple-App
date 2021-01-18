@@ -19,10 +19,10 @@ You need to install PyQT5 module.
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/sign_in.png](https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/sign_in.png)
+![https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/homepage.png](https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/sign_in.png)
 
-![https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/sign_up.png](https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/sign_in.png)
+![https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/homepage.png](https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/sign_up.png)
 
-![https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/reset_password.png](https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/sign_in.png)
+![https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/homepage.png](https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/reset_password.png)
 
-![https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/homepage.png](https://raw.githubusercontent.com/ilhamitugral/PyQT5-Simple-App/main/resources/sign_in.png)
+![https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/homepage.png](https://github.com/ilhamitugral/PyQT5-Simple-App/blob/main/resources/homepage.png)
