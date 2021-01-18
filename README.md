@@ -15,7 +15,9 @@ This developed from **Python Programming Language**. I used `PyQT5` and `sys` mo
 It's so simple. You need a **Python 3.x**. on your computer. Are you haven't **Python 3.x**; you can download from https://python.org
 
 You need to install PyQT5 module.
-`pip install pyqt5`
+```
+pip install pyqt5
+```
 
 ## Screenshots
 
